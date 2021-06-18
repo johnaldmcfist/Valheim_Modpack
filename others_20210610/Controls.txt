@@ -6,7 +6,7 @@
 ### QuickStack
 - "UpArrow" key for quick stack
 ### Quick Replant
-- "Mouse3" key for quick replant (alt attack w/ cultivator)
+- "H" key for quick replant
 ### Map Sync
 - "F10" to send map, F11 to send pins, F9 to toggle mod on/off
 ### Hoe Radius
